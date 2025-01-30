@@ -18,7 +18,9 @@ cd expressjs-api
 npm install
 ```
 
-## 4. Start the API:
+## 4. Rename .env.sample to .env
+
+## 5. Start the API:
 ```
 npm start
 ```
