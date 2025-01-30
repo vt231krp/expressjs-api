@@ -1,0 +1,56 @@
+[
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "Wireless Mouse",
+    "price": 19.99,
+    "description": "A smooth and responsive wireless mouse with a sleek design.",
+    "category": "Electronics",
+    "stockQuantity": 150,
+    "brand": "Logitech"
+  },
+  {
+    "id": "e4f13b0a-9469-46ec-8532-dcba5c63e3db",
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "description": "Compact Bluetooth speaker with high-quality sound.",
+    "category": "Audio",
+    "stockQuantity": 80,
+    "brand": "JBL"
+  },
+  {
+    "id": "fcf62b99-3175-47b7-b0b1-bc6267d43da4",
+    "name": "4K TV",
+    "price": 499.99,
+    "description": "Ultra HD 4K Smart TV with stunning picture quality.",
+    "category": "Electronics",
+    "stockQuantity": 35,
+    "brand": "Samsung"
+  },
+  {
+    "id": "b22c9bc1-597b-44fa-8fba-e73fe16041be",
+    "name": "Coffee Maker",
+    "price": 89.99,
+    "description": "Automatic coffee maker with programmable settings.",
+    "category": "Home Appliances",
+    "stockQuantity": 120,
+    "brand": "Keurig"
+  },
+  {
+    "id": "86d29c45-47ca-4b50-ba74-7d298bfc8854",
+    "name": "Gaming Keyboard 1",
+    "price": 80.99,
+    "description": "Mechanical gaming keyboard with customizable RGB lighting and responsive keys.",
+    "category": "Electronics",
+    "stockQuantity": 85,
+    "brand": "Razer"
+  },
+  {
+    "id": "e3a10710-6bd7-4073-823b-c455851b475a",
+    "name": "Gaming Keyboard 2",
+    "price": 80.99,
+    "description": "Mechanical gaming keyboard with customizable RGB lighting and responsive keys.",
+    "category": "Electronics",
+    "stockQuantity": 85,
+    "brand": "Razer"
+  }
+]
